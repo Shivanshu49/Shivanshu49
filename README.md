@@ -2,19 +2,19 @@
 
 ###
 
-<p align="left">Full-Stack MERN Developer | Backend Craftsman | AI/ML Explorer<br>Building reliable systems, scalable APIs, and smooth user experiences.</p>
-
-###
-
 <h2 align="left">🚀 About Me</h2>
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **MERN + AI integrated projects**  <br>- 🌱 Learning **DevOps (Docker, CI/CD, Cloud)**  <br>- ⚡ Love building **scalable APIs, automation tools & interactive UIs**  <br>- 🤖 Exploring **Machine Learning & LLM apps**</p>
+<p align="left">Full-Stack MERN Developer | Backend Craftsman | AI/ML Explorer<br>Building reliable systems, scalable APIs, and smooth user experiences.</p>
 
 ###
 
-<h2 align="left">TechStack</h2>
+<p align="left">- 🔭 I’m currently working on **MERN + AI integrated projects**<br>- 🌱 Learning **DevOps (Docker, CI/CD, Cloud)**<br>- ⚡ Love building **scalable APIs, automation tools & interactive UIs**<br>- 🤖 Exploring **Machine Learning & LLM apps**</p>
+
+###
+
+<h2 align="left">🛠️ TechStack</h2>
 
 ###
 
@@ -31,7 +31,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
 </div>
 
 ###
