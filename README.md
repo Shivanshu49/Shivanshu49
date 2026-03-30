@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 I’m a B.Tech CSE student with a passion for Web Development & Artificial Intelligence — always curious, always building, always learning.<br>👨‍💻  Currently, I’m diving deep into the MERN stack (MongoDB, Express.js, React, Node.js) while sharpening my skills in Tailwind CSS, Bootstrap, HTML, CSS, and JavaScript. I love the process of transforming ideas into clean, functional, and responsive web apps that solve real-world problems.</p>
+<p align="left">💻 I’m a B.Tech CSE student with a passion for Web Development & Artificial Intelligence always curious, always building, always learning.<br>👨‍💻  Currently, I’m diving deep into the MERN stack (MongoDB, Express.js, React, Node.js) while sharpening my skills in Tailwind CSS, Bootstrap, HTML, CSS, and JavaScript. I love the process of transforming ideas into clean, functional, and responsive web apps that solve real-world problems.</p>
 
 ###
 
