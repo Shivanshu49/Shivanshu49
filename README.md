@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on **MERN + AI integrated projects**<br>- 🌱 Learning **DevOps (Docker, CI/CD, Cloud)**<br>- ⚡ Love building **scalable APIs, automation tools & interactive UIs**<br>- 🤖 Exploring **Machine Learning & LLM apps**</p>
+<p align="left">- 🔭 I’m currently working on MERN + AI integrated projects<br>- 🌱 Learning DevOps (Docker, CI/CD, Cloud)<br>- ⚡ Love building scalable APIs, automation tools & interactive UIs<br>- 🤖 Exploring Machine Learning & LLM apps</p>
 
 ###
 
