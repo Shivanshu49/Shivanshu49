@@ -90,7 +90,7 @@
 
 ###
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><a href="https://www.linkedin.com/in/shivanshu049" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin" /></a></td>
     <td><a href="https://x.com/Shivanshu049" target="_blank"><img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40" alt="X" /></a></td>
