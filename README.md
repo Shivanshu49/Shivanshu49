@@ -90,6 +90,13 @@
 
 ###
 
-<div align="left"><a href="https://www.linkedin.com/in/shivanshu049" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" /></a><a href="https://x.com/Shivanshu049" target="_blank"><img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40" alt="X logo" /></a><a href="https://discord.com/users/810122484544307200" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo" /></a><a href="mailto:shivanshudixit573@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" /></a></div>
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/shivanshu049" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin" /></a></td>
+    <td><a href="https://x.com/Shivanshu049" target="_blank"><img src="https://cdn.simpleicons.org/x/ffffff" width="40" height="40" alt="X" /></a></td>
+    <td><a href="https://discord.com/users/810122484544307200" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord" /></a></td>
+    <td><a href="mailto:shivanshudixit573@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail" /></a></td>
+  </tr>
+</table>
 
 ###
