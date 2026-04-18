@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Shivanshu</h1>
+<h1 align="left">👋 Hi, I'm Shivanshu</h1> 
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 I’m a B.Tech CSE student with a passion for Web Development & Artificial Intelligence always curious, always building, always learning.<br><br>👨‍💻 Currently, I’m diving deep into the MERN stack (MongoDB, Express.js, React, Node.js) while sharpening my skills in Tailwind CSS, Bootstrap, HTML, CSS, and JavaScript. I love the process of transforming ideas into clean, functional, and responsive web apps that solve real-world problems.<br><br>- 🔭 I’m currently working on MERN + AI integrated projects<br>- 🌱 Learning DevOps (Docker, CI/CD, Cloud)<br>- ⚡ Love building scalable APIs, automation tools & interactive UIs<br>- 🤖 Exploring Machine Learning & LLM apps</p>
+<p align="left">💻 I'm a B.Tech CSE student with a passion for Web Development & Artificial Intelligence always curious, always building, always learning.<br><br>👨‍💻 Currently, I'm diving deep into the MERN stack (MongoDB, Express.js, React, Node.js) while sharpening my skills in Tailwind CSS, Bootstrap, HTML, CSS, and JavaScript. I love the process of transforming ideas into clean, functional, and responsive web apps that solve real-world problems.<br><br>- 🔭 I'm currently working on MERN + AI integrated projects<br>- 🌱 Learning DevOps (Docker, CI/CD, Cloud)<br>- ⚡ Love building scalable APIs, automation tools & interactive UIs<br>- 🤖 Exploring Machine Learning & LLM apps</p>
 
 ###
 
@@ -91,18 +91,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/shivanshu049" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Shivanshu049" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/810122484544307200" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
-  </a>
-  <a href="shivanshudixit573@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
-  </a>
+  <a href="https://www.linkedin.com/in/shivanshu049" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo" /></a> <a href="https://x.com/Shivanshu049" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" width="60" height="40" alt="X logo" /></a> <a href="https://discord.com/users/810122484544307200" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo" /></a> <a href="mailto:shivanshudixit573@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo" /></a>
 </div>
 
 ###
